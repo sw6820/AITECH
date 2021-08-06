@@ -6,5 +6,5 @@
 ####  * 2 day(08/03 Tue) [https://s6820w.tistory.com/3]
 ####  * 3 day(08/04 Wed) [https://s6820w.tistory.com/4]
 ####  * 4 day(08/05 Thu) [https://s6820w.tistory.com/5]
-####  * 5 day(08/06 Fri) 
+####  * 5 day(08/06 Fri) [https://s6820w.tistory.com/6]
 ----------------------------------------------------------
