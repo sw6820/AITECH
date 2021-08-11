@@ -11,4 +11,4 @@
 ### - 2 week(08/09~08/13)
 ####  * 6 day(08/09 Mon) [https://s6820w.tistory.com/7]
 ####  * 7 day(08/10 Tue) [https://s6820w.tistory.com/8]
-####
+####  * 8 day(08/11 Wed) [https://s6820w.tistory.com/10]
