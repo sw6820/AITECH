@@ -26,3 +26,4 @@
 ####  *  16  day(08/22 Tue) [https://s6820w.tistory.com/18]
 ####  *  17  day(08/23 Wed) [https://s6820w.tistory.com/19]
 ####  *  18  day(08/24 Thu) [https://s6820w.tistory.com/20]
+####  *  19  day(08/24 Fri) [https://s6820w.tistory.com/21]
