@@ -1,7 +1,5 @@
 # NAVER BoostCamp AITECH_2nd
-
 ## TIL(Today I Learned)
-----------------------------------------------------------
 ## Level 1(14)
 ### - 1 week(08/02~08/06)
 ####  *   1  day(08/02 Mon) [https://s6820w.tistory.com/2]
