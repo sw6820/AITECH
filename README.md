@@ -33,3 +33,4 @@
 ####  *  21  day(08/31 Tue) [https://s6820w.tistory.com/23]
 ####  *  22  day(09/01 Wed) [https://s6820w.tistory.com/24]
 ####  *  23  day(09/02 Thu) [https://s6820w.tistory.com/25]
+####  *  24  day(09/03 Fri) [https://s6820w.tistory.com/26]
