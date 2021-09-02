@@ -31,3 +31,4 @@
 ### - 5 week(08/30~09/03)
 ####  *  20  day(08/30 Mon) [https://s6820w.tistory.com/22]
 ####  *  21  day(08/31 Tue) [https://s6820w.tistory.com/23]
+####  *  22  day(09/01 Wed) [https://s6820w.tistory.com/24]
