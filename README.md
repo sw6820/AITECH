@@ -51,7 +51,7 @@
 ####  *  30  day(09/13 Mon) [https://s6820w.tistory.com/32]
 ####  *  31  day(09/14 Tue) [https://s6820w.tistory.com/33]
 ####  *  32  day(09/14 Tue) [https://s6820w.tistory.com/34]
-####
+####  *  32  day(09/14 Tue) [https://s6820w.tistory.com/34]
 ####
 ####
 ----------------------------------------------------------
