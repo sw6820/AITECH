@@ -62,5 +62,5 @@
 ## Pstage
 ### - 9 week(09/27~10/01)
 ####  *  37  day(09/27 Mon) [https://s6820w.tistory.com/39] 
-####  *  38  day(09/28 Tue)
+####  *  38  day(09/28 Tue) [https://s6820w.tistory.com/40] 
 ####
