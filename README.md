@@ -64,3 +64,4 @@
 ####  *  37  day(09/27 Mon) [https://s6820w.tistory.com/39] 
 ####  *  38  day(09/28 Tue) [https://s6820w.tistory.com/40] 
 ####  *  39  day(09/29 Wed) [https://s6820w.tistory.com/41] 
+####  *  40  day(09/30 Thu) [https://s6820w.tistory.com/42] 
