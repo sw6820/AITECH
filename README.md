@@ -70,4 +70,4 @@
 ### - 10 week(10/05~10/08)
 ####  *  42  day(10/05 Tue) [https://s6820w.tistory.com/44] 
 ####  *  43  day(10/06 Wed) [https://s6820w.tistory.com/45] 
-####
+####  *  44  day(10/07 Thu) [https://s6820w.tistory.com/46] 
