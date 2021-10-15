@@ -77,4 +77,4 @@
 ####  *  46  day(10/12 Tue) [https://s6820w.tistory.com/48] 
 ####  *  47  day(10/13 Wed) [https://s6820w.tistory.com/49] 
 ####  *  48  day(10/14 Thu) [https://s6820w.tistory.com/50]
-####  *  48  day(10/14 Thu) [https://s6820w.tistory.com/50]
+####  *  49  day(10/15 Fri) [https://s6820w.tistory.com/51]
