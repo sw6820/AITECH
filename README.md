@@ -82,3 +82,4 @@
 ### - 12 week(10/18~10/22)
 ####  *  50  day(10/18 Mon) [https://s6820w.tistory.com/53]
 ####  *  51  day(10/19 Tue) [https://s6820w.tistory.com/54]
+####  *  52  day(10/20 Wed) [https://s6820w.tistory.com/58]
