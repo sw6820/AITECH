@@ -89,4 +89,4 @@
 ### - 13 week(10/25~10/29)
 ####  *  55  day(10/25 Mon) [https://s6820w.tistory.com/65]
 ####  *  56  day(10/26 Tue) [https://s6820w.tistory.com/67]
-####  *  57
+####  *  57  day(10/27 Wed)
