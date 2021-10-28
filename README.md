@@ -90,4 +90,4 @@
 ####  *  55  day(10/25 Mon) [https://s6820w.tistory.com/65]
 ####  *  56  day(10/26 Tue) [https://s6820w.tistory.com/67]
 ####  *  57  day(10/27 Wed) [https://s6820w.tistory.com/69]
-####  *  57  day(10/27 Wed)
+####  *  57  day(10/27 Wed) [https://s6820w.tistory.com/69]
