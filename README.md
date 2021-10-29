@@ -23,6 +23,7 @@
 ####  *  14  day(08/20 Fri) [https://s6820w.tistory.com/16]
 ----------------------------------------------------------
 ## Pstage
+## Image Classification
 ### - 4 week(08/23~08/27)
 ####  *  15  day(08/21 Mon) [https://s6820w.tistory.com/17]
 ####  *  16  day(08/22 Tue) [https://s6820w.tistory.com/18]
@@ -60,6 +61,7 @@
 ####  *  36  day(09/24 Fri) [https://s6820w.tistory.com/38] 
 ----------------------------------------------------------
 ## Pstage
+## KLUE(RE)
 ### - 9 week(09/27~10/01)
 ####  *  37  day(09/27 Mon) [https://s6820w.tistory.com/39] 
 ####  *  38  day(09/28 Tue) [https://s6820w.tistory.com/40] 
@@ -73,6 +75,7 @@
 ####  *  44  day(10/07 Thu) [https://s6820w.tistory.com/46] 
 ####  *  45  day(10/08 Fri) [https://s6820w.tistory.com/47] 
 ----------------------------------------------------------
+## MRC
 ### - 11 week(10/12~10/15)
 ####  *  46  day(10/12 Tue) [https://s6820w.tistory.com/48] 
 ####  *  47  day(10/13 Wed) [https://s6820w.tistory.com/49] 
