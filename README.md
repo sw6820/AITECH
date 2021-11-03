@@ -99,3 +99,4 @@
 ### - 14 week(11/01~10/05)
 ####  *  60  day(11/01 Mon) [https://s6820w.tistory.com/72]
 ####  *  61  day(11/02 Tue) [https://s6820w.tistory.com/73]
+####  *  62  day(11/03 Wed) [https://s6820w.tistory.com/74]
