@@ -101,4 +101,4 @@
 ####  *  61  day(11/02 Tue) [https://s6820w.tistory.com/73]
 ####  *  62  day(11/03 Wed) [https://s6820w.tistory.com/74]
 ####  *  63  day(11/04 Thu) [https://s6820w.tistory.com/75]
-####  *  63  day(11/04 Thu) [https://s6820w.tistory.com/75]
+####  *  64  day(11/05 Fri) [https://s6820w.tistory.com/76]
