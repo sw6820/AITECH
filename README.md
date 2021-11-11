@@ -108,4 +108,4 @@
 ####  *  65  day(11/06 Mon) [https://s6820w.tistory.com/77]
 ####  *  66  day(11/07 Tue) [https://s6820w.tistory.com/78]
 ####  *  67  day(11/08 Tue) [https://s6820w.tistory.com/79]
-####  *  67  day(11/08 Tue) [https://s6820w.tistory.com/79]
+####  *  68  day(11/09 Wed) [https://s6820w.tistory.com/79]
