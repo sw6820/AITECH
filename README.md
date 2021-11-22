@@ -118,5 +118,5 @@
 ####  *  73  day(11/18 Thu) [https://s6820w.tistory.com/85]
 ####  *  74  day(11/19 Fri) [https://s6820w.tistory.com/86]
 ----------------------------------------------------------
-### - 16 week(11/22~11/26)
-####  *  74  day(11/19 Fri) [https://s6820w.tistory.com/86]
+### - 17 week(11/22~11/26)
+####  *  74  day(11/20 Mon) [https://s6820w.tistory.com/87]
