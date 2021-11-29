@@ -120,11 +120,11 @@
 ----------------------------------------------------------
 ## Model Optimization
 ### - 17 week(11/22~11/26)
-####  *  75  day(11/20 Mon) [https://s6820w.tistory.com/87]
-####  *  76  day(11/21 Tue) [https://s6820w.tistory.com/88]
-####  *  77  day(11/22 Wed) [https://s6820w.tistory.com/89]
-####  *  78  day(11/23 Thu) [https://s6820w.tistory.com/90]
-####  *  79  day(11/24 Fri) [https://s6820w.tistory.com/92]
+####  *  75  day(11/22 Mon) [https://s6820w.tistory.com/87]
+####  *  76  day(11/23 Tue) [https://s6820w.tistory.com/88]
+####  *  77  day(11/24 Wed) [https://s6820w.tistory.com/89]
+####  *  78  day(11/25 Thu) [https://s6820w.tistory.com/90]
+####  *  79  day(11/26 Fri) [https://s6820w.tistory.com/92]
 ----------------------------------------------------------
 ### - 18 week(11/29~12/03)
-####  *  80  day(11/24 Fri) [https://s6820w.tistory.com/93]
+####  *  80  day(11/29 Mon) [https://s6820w.tistory.com/93]
