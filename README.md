@@ -130,4 +130,4 @@
 ####  *  80  day(11/29 Mon) [https://s6820w.tistory.com/93]
 ####  *  81  day(11/30 Tue) [https://s6820w.tistory.com/94]
 ####  *  82  day(12/01 Wed) [https://s6820w.tistory.com/95]
-####  *  82  day(12/01 Wed) [https://s6820w.tistory.com/95]
+####  *  82  day(12/01 Wed) [https://s6820w.tistory.com/96]
