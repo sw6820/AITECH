@@ -149,5 +149,5 @@
 ####  *  94  day(12/17 Fri) [https://s6820w.tistory.com/107]
 ----------------------------------------------------------
 ### - 21 week(12/20~12/24)
-####  *  95  day(12/20 Fri) [https://s6820w.tistory.com/102]
+####  *  95  day(12/20 Fri) [https://s6820w.tistory.com/108]
 ####  *  95  day(12/20 Fri) [https://s6820w.tistory.com/102]
