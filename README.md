@@ -145,7 +145,7 @@
 ####  *  90  day(12/13 Mon) [https://s6820w.tistory.com/103]
 ####  *  91  day(12/14 Tue) [https://s6820w.tistory.com/104]
 ####  *  92  day(12/15 Wed) [https://s6820w.tistory.com/105]
-####  *  93  day(12/16 Fri) [https://s6820w.tistory.com/106]
+####  *  93  day(12/16 Thu) [https://s6820w.tistory.com/106]
 ####  *  94  day(12/17 Fri) [https://s6820w.tistory.com/107]
 ----------------------------------------------------------
 ### - 21 week(12/20~12/24)
