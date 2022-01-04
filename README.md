@@ -151,4 +151,4 @@
 ### - 21 week(12/20~12/24)
 ####  *  95  day(12/20 Mon) [https://s6820w.tistory.com/108]
 ####  *  96  day(12/21 Tue) [https://s6820w.tistory.com/109]
-####  *  97  day(12/21 Tue) [https://s6820w.tistory.com/110]
+####  *  97  day(12/22 ue) [https://s6820w.tistory.com/110]
